@@ -7,10 +7,10 @@ int main (int argc, char *argv[]){
 
 string firstname,secondname;
 
-cout << "Enter your fisrtname:\n"; endl;
-cin >> firstname; endl;
-cout << "Enter your secondname:\n"; endl;
-cin >> secondname; endl;
+cout << "Enter your fisrtname:\n" << endl;
+cin >> firstname;
+cout << "Enter your secondname:\n" << endl;
+cin >> secondname;
 
 system("PAUSE");
 return EXIT_SUCcESS;
